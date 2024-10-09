@@ -1,0 +1,274 @@
+<mxfile host="Electron" modified="2024-10-03T06:48:41.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_Rvy5wgjArQ27XG4vFK8" version="24.2.5" type="device">
+  <diagram name="Page-1" id="4UTAmA2uoD-IfyVEnVjI">
+    <mxGraphModel dx="2261" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-1" target="FCzxqnXcpO9qCEgbfX0Z-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-1" target="PpXbYWdYzbVra1CNCRC_-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-1" target="PpXbYWdYzbVra1CNCRC_-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-1" target="PpXbYWdYzbVra1CNCRC_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-1" target="PpXbYWdYzbVra1CNCRC_-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCzxqnXcpO9qCEgbfX0Z-1" value="&lt;strong&gt;Machine Learning (ML)&lt;/strong&gt; is a subset of artificial intelligence (AI) that enables systems to learn from data and improve performance without being explicitly programmed." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" parent="1" vertex="1">
+          <mxGeometry x="235" y="10" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FCzxqnXcpO9qCEgbfX0Z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-2" target="FCzxqnXcpO9qCEgbfX0Z-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCzxqnXcpO9qCEgbfX0Z-2" value="&lt;b&gt;Artificial Intelligence (AI) &lt;/b&gt;is a branch of computer science that uses computation models to perform tasks that previously required human intelligence)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="1" vertex="1">
+          <mxGeometry x="225" y="-170" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="622" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FFCCCC;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="255" />
+              <mxPoint x="-230" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FCzxqnXcpO9qCEgbfX0Z-3" target="PpXbYWdYzbVra1CNCRC_-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCzxqnXcpO9qCEgbfX0Z-3" value="&lt;strong&gt;Supervised Learning&lt;/strong&gt;: The model is trained on labeled data, where the input and the desired output are provided. The goal is for the model to predict the output for new, unseen inputs." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#99FFFF;" parent="1" source="PpXbYWdYzbVra1CNCRC_-1" target="PpXbYWdYzbVra1CNCRC_-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="255" />
+              <mxPoint x="90" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#99FFFF;" parent="1" source="PpXbYWdYzbVra1CNCRC_-1" target="PpXbYWdYzbVra1CNCRC_-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="255" />
+              <mxPoint x="90" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#99FFFF;" parent="1" source="PpXbYWdYzbVra1CNCRC_-1" target="PpXbYWdYzbVra1CNCRC_-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="255" />
+              <mxPoint x="90" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#99FFFF;" parent="1" source="PpXbYWdYzbVra1CNCRC_-1" target="PpXbYWdYzbVra1CNCRC_-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="255" />
+              <mxPoint x="90" y="634" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-1" value="&lt;strong&gt;Unsupervised Learning&lt;/strong&gt;: The model is given data without labeled responses and must find structure or patterns within the data, such as clustering similar items together." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#99FFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-2" target="PpXbYWdYzbVra1CNCRC_-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="640" y="388" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-2" target="PpXbYWdYzbVra1CNCRC_-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="640" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-2" target="PpXbYWdYzbVra1CNCRC_-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="255" />
+              <mxPoint x="640" y="534" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-2" value="&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: The model learns by interacting with an environment, receiving feedback through rewards or penalties, and using this feedback to improve its performance." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="660" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-8" target="PpXbYWdYzbVra1CNCRC_-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="255" />
+              <mxPoint x="373" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="388" y="255" as="sourcePoint" />
+            <mxPoint x="393" y="677.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="373" y="255" />
+              <mxPoint x="373" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-8" target="PpXbYWdYzbVra1CNCRC_-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="255" />
+              <mxPoint x="373" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-8" value="&lt;p style=&quot;margin: 0in;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Semi-Supervised Learning&lt;/span&gt;: Uses a small amount&lt;br&gt;of labeled data and a large amount of unlabeled data. This is useful when&lt;br&gt;labeled data is scarce.&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="390" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-9" target="PpXbYWdYzbVra1CNCRC_-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="255" />
+              <mxPoint x="910" y="464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PpXbYWdYzbVra1CNCRC_-9" target="PpXbYWdYzbVra1CNCRC_-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="255" />
+              <mxPoint x="910" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-9" value="&lt;p style=&quot;margin: 0in;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ensemble Methods&lt;/span&gt;&lt;font style=&quot;&quot;&gt;: Combine predictions from&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot;&gt;multiple models to improve accuracy.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#CCE5FF;" parent="1" vertex="1">
+          <mxGeometry x="940" y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-15" value="&lt;b&gt;Linear Regression&lt;/b&gt;: Predicts a continuous output based on input features (e.g., predicting house prices)." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="369" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-17" value="&lt;b&gt;Logistic Regression:&lt;/b&gt; Used for binary classification tasks (e.g., predicting whether an email is spam or not)." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="439" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-19" value="&lt;b&gt;Support Vector Machines (SVM)&lt;/b&gt;: Classifies data by finding the hyperplane that best separates different classes&lt;b&gt;.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="659" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-20" value="&lt;b&gt;Naive Bayes&lt;/b&gt;: Based on Bayes&#39; theorem, used for probabilistic classification." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="809" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-21" value="&lt;b&gt;K-Nearest Neighbours&amp;nbsp;(KNN)&lt;/b&gt;: Classifies a sample based on the majority class of its nearest neighbors." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="739" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-22" value="&lt;b&gt;Decision Trees: &lt;/b&gt;Recursive partitioning of data into subgroups by choosing features that best split the data" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="509" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-23" value="&lt;b&gt;Random Forest: &lt;/b&gt;An ensemble of decision trees, typically used to improve classification or regression accuracy." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="584" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-33" value="&lt;b&gt;K-Means Clustering: &lt;/b&gt;Groups data into clusters based on feature similarity." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#99FFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="369" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-34" value="&lt;b&gt;Hierarchical Clustering: &lt;/b&gt;Builds a hierarchy of clusters based on distance measures.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#99FFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="439" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-35" value="&lt;b&gt;&amp;nbsp;Principal Component Analysis (PCA)&lt;/b&gt;: Reduces the dimensionality of data by identifying principal components that explain the variance in the data." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#99FFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="520" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-36" value="&lt;b&gt;Autoencoders: &lt;/b&gt;A neural network used for dimensionality reduction and unsupervised feature learning." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#99FFFF;" parent="1" vertex="1">
+          <mxGeometry x="110" y="609" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-41" value="&lt;b&gt;Bagging:&lt;/b&gt; Combines predictions by averaging or voting (e.g., Random Forest)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
+          <mxGeometry x="940" y="360" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-42" value="&lt;b&gt;Boosting&lt;/b&gt;: Combines weak learners to form a strong learner (e.g., AdaBoost, Gradient Boosting, XGBoost)." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
+          <mxGeometry x="940" y="439" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-47" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Self Training:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Iterative labeling:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;The algorithm initially trains on the small labeled dataset.&amp;nbsp;It then predicts labels for unlabeled data and adds the most confident predictions to the labeled dataset,&amp;nbsp;retraining the model.&amp;nbsp;This process is repeated until a desired level of performance is reached.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="340" width="215" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-48" value="&lt;h3 style=&quot;&quot; data-sourcepos=&quot;11:1-11:15&quot; class=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Co-Training&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot; data-sourcepos=&quot;11:1-11:15&quot; class=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;strong style=&quot;font-size: 12px; background-color: initial;&quot;&gt;Multiple views:&lt;/strong&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;The algorithm assumes that the data can be represented in multiple views or features.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;Two or more classifiers are trained on different views of the labeled data.&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;They then predict labels for unlabeled data,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: initial; font-weight: normal;&quot;&gt;and each classifier uses the predictions of the other classifiers to update its model.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="395" y="570" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-51" value="&lt;h3 style=&quot;text-align: left;&quot; data-sourcepos=&quot;15:1-15:23&quot; class=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Graph-Based Methods&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;text-align: left;&quot; data-sourcepos=&quot;11:1-11:15&quot; class=&quot;&quot;&gt;&lt;ul style=&quot;font-weight: 400;&quot; data-sourcepos=&quot;17:1-18:124&quot;&gt;&lt;li style=&quot;&quot; data-sourcepos=&quot;17:1-17:239&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;strong&gt;Label propagation:&lt;/strong&gt;&amp;nbsp;The algorithm constructs a graph where nodes represent data points and edges represent similarities between them.&amp;nbsp;Labels are propagated from labeled nodes to unlabeled nodes based on their connections in the graph.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot; data-sourcepos=&quot;18:1-18:124&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Manifold regularization:&lt;/strong&gt;&amp;nbsp;Assumes that the data lies on a low-dimensional manifold embedded in a high-dimensional space.&amp;nbsp;The algorithm regularizes the model to preserve the manifold structure.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#CCFFCC;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="820" width="217.5" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-52" value="&lt;strong&gt;Value-Based:&lt;/strong&gt; Update value estimates to guide actions. &lt;br&gt;eg : Q-Learning, Deep Q-learning" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="660" y="350" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-54" value="&lt;strong style=&quot;background-color: initial;&quot;&gt;Policy-Based:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Directly learn a policy to choose actions eg :&amp;nbsp;&lt;/span&gt;eg: Policy Gradient" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="660" y="430" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-55" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bli%20data-sourcepos%3D%26quot%3B4%3A1-4%3A46%26quot%3B%26gt%3B%26lt%3Bstrong%26gt%3BPolicy-Based%3A%26lt%3B%2Fstrong%26gt%3B%20Directly%20learn%20a%20policy%20to%20choose%20actions%26lt%3B%2Fli%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22640%22%20y%3D%22430%22%20width%3D%22220%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Model-Based:&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; Build a model of the environment to plan actions.eg. D&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;yna-Q&lt;/span&gt;&lt;/div&gt;&lt;p data-sourcepos=&quot;7:1-7:19&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="660" y="509" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-66" value="&lt;strong&gt;Deep learning&lt;/strong&gt; models are trained on large datasets of labeled examples to learn complex patterns and features. This training process involves adjusting the model&#39;s parameters to minimize the error between the predicted output and the true label." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="880" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PpXbYWdYzbVra1CNCRC_-67" value="&lt;strong&gt;Generative AI&lt;/strong&gt; models, such as generative adversarial networks (GANs) and variational autoencoders (VAEs), are also trained on labeled data. GANs learn to generate new data points that are similar to the training data by competing with a discriminator model. VAEs learn a latent representation of the data and can generate new data points by sampling from this latent space." style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="1020" width="220" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

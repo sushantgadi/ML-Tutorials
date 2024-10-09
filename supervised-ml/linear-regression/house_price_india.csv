@@ -1,0 +1,45 @@
+City,Locality,Size (sqft),BHK,Bathrooms,Age (years),Furnishing,Parking,Price (INR),Latitude,Longitude,Floor,Total Floors,Trend (_/sqft),Vastu Compliance
+Bangalore,Whitefield,1500,3,2,5,Furnished,1,8000000,12.9716,77.5946,2,4,5500,Yes
+Mumbai,Andheri West,1200,2,2,8,Semi-Furnished,2,15000000,19.076,72.8777,10,20,12000,No
+Delhi,Connaught Place,2000,4,3,2,Unfurnished,3,25000000,28.6139,77.209,5,10,20000,Yes
+Hyderabad,Banjara Hills,1800,3,3,6,Furnished,1,9500000,17.385,78.4867,4,12,6500,Yes
+Chennai,Adyar,1600,3,2,10,Unfurnished,2,12000000,13.0827,80.2707,6,15,8000,No
+Pune,Koregaon Park,1400,2,2,4,Furnished,1,7500000,18.5204,73.8567,3,8,5200,Yes
+Kolkata,Salt Lake City,1500,3,2,7,Semi-Furnished,1,6500000,22.5726,88.3639,2,6,4800,No
+Ahmedabad,Satellite,1600,3,3,9,Unfurnished,1,5800000,23.0225,72.5714,7,14,4000,Yes
+Jaipur,Malviya Nagar,1700,3,2,5,Furnished,1,7000000,26.9124,75.7873,5,10,5200,Yes
+Surat,City Light Town,1400,2,2,8,Unfurnished,2,6000000,21.1702,72.8311,6,12,4500,No
+Lucknow,Gomti Nagar,1500,3,3,6,Semi-Furnished,1,7200000,26.8467,80.9462,4,8,4700,Yes
+Nagpur,Ramdaspeth,1800,3,3,10,Unfurnished,1,6800000,21.1458,79.0882,7,14,4000,No
+Indore,Vijay Nagar,1300,2,2,4,Furnished,1,5500000,22.7196,75.8577,2,5,4800,Yes
+Thane,Ghodbunder Road,1600,3,2,7,Semi-Furnished,2,9000000,19.2183,72.9781,6,18,5300,No
+Bhopal,Arera Colony,1400,2,2,6,Unfurnished,1,4800000,23.2599,77.4126,3,6,3500,Yes
+Patna,Patliputra Colony,1700,3,2,9,Furnished,1,5600000,25.5941,85.1376,5,10,4100,Yes
+Ludhiana,Sarabha Nagar,1500,3,2,10,Semi-Furnished,2,6200000,30.9009,75.8573,7,12,4500,No
+Agra,Civil Lines,1600,3,2,8,Unfurnished,1,4800000,27.1767,78.0081,4,9,4000,Yes
+Nashik,Panchavati,1500,2,2,6,Furnished,1,5200000,20.011,73.7903,2,5,3700,No
+Vadodara,Alkapuri,1400,2,2,4,Semi-Furnished,2,5700000,22.3072,73.1812,5,10,4200,Yes
+Faridabad,Greenfield Colony,1700,3,3,7,Unfurnished,1,6000000,28.4089,77.3178,8,15,4600,Yes
+Ghaziabad,Vasundhara,1600,3,2,5,Furnished,1,7500000,28.6692,77.4538,6,12,5100,No
+Rajkot,Yagnik Road,1400,2,2,8,Unfurnished,2,5300000,22.3039,70.8022,3,6,4200,Yes
+Amritsar,Ranjit Avenue,1500,3,2,7,Semi-Furnished,1,4800000,31.634,74.8723,4,8,3700,No
+Coimbatore,Saibaba Colony,1700,3,2,5,Furnished,1,6400000,11.0168,76.9558,5,12,4200,Yes
+Jodhpur,Ratanada,1500,2,2,9,Semi-Furnished,1,5700000,26.2389,73.0243,7,14,4000,Yes
+Vijayawada,Benz Circle,1600,3,3,4,Unfurnished,2,6100000,16.5062,80.648,6,12,4500,No
+Chandigarh,Manimajra,1700,3,2,6,Furnished,1,7300000,30.7333,76.7794,5,10,5300,Yes
+Mysore,Gokulam,1500,3,2,7,Semi-Furnished,1,4900000,12.2958,76.6394,3,8,3500,No
+Varanasi,Sigra,1400,2,2,5,Unfurnished,1,5200000,25.3176,82.9739,2,6,4100,Yes
+Madurai,K. K. Nagar,1600,3,3,8,Furnished,2,5900000,9.9252,78.1198,6,10,4200,No
+Aurangabad,Nirala Bazar,1500,3,2,9,Semi-Furnished,1,5000000,19.8762,75.3433,4,7,3900,Yes
+Tiruchirappalli,Thillai Nagar,1700,3,2,4,Furnished,1,6800000,10.7905,78.7047,5,12,4700,No
+Gwalior,Lashkar,1400,2,2,7,Unfurnished,2,4600000,26.2183,78.1828,3,8,3400,Yes
+Kota,Gumanpura,1600,3,2,6,Semi-Furnished,1,5100000,25.2138,75.8648,5,10,3900,Yes
+Guwahati,Dispur,1500,3,2,5,Furnished,1,5500000,26.1445,91.7362,4,9,4200,No
+Noida,Sector 62,1800,3,3,4,Semi-Furnished,2,8900000,28.5355,77.391,6,15,6000,Yes
+Kochi,Edappally,1700,3,2,7,Unfurnished,1,7800000,9.9312,76.2673,5,12,5700,No
+Visakhapatnam,Dwaraka Nagar,1600,3,2,9,Furnished,2,7500000,17.6868,83.2185,6,14,5100,Yes
+Dehradun,Rajpur Road,1500,2,2,8,Semi-Furnished,1,5600000,30.3165,78.0322,4,8,4200,No
+Jabalpur,Wright Town,1400,2,2,7,Unfurnished,1,4700000,23.1815,79.9864,3,7,3600,Yes
+Udaipur,Sardarpura,1600,3,3,6,Furnished,2,6800000,24.5854,73.7125,5,10,4700,Yes
+Mangalore,Hampankatta,1500,3,2,5,Semi-Furnished,1,5400000,12.9141,74.856,4,9,4000,No
+Thiruvananthapuram,Kowdiar,1700,3,2,4,Unfurnished,1,6700000,8.5241,76.9366,5,12,450,
